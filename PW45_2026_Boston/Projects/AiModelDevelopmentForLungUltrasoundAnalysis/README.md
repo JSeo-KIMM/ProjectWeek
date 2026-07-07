@@ -33,7 +33,7 @@ key_investigators:
 
 ## Github Repository
 
-(to be added)
+[https://github.com/AI4Ultrasound/ai4ultrasound-keypoint-detect.git](https://github.com/AI4Ultrasound/ai4ultrasound-keypoint-detect.git)
 
 ## Funding Source(s)
 
@@ -113,41 +113,28 @@ Overview of different metadata of lung ultrasound dataset:
 
 Overview of original data structures:
 ```
-+---Andrew/
-|   +---Andrew-0561119268/
-|   |       0561119268_08109698.andrew.json
-|   |       0561119268_08109698.dcm
++---<Annotator>/
+|   +---<Annotator>-<site_id>/
+|   |       <clipid>.<Annotator>.json
+|   |       <clipid>.dcm
 |   |       ...
-|   +---Andrew-1835608883/
-|   +---Andrew-3594442829/
-|   +---Andrew-5476058456/
-|   +---Andrew-5982622832/
+|   +---<Annotator>-<site_id>/
+|   +---<Annotator>-<site_id>/
+|   +---<Annotator>-<site_id>/
+|   +---<Annotator>-<site_id>/
 |   ...
-|   +---Andrew-CARVD_123_Day_0/
-|   +---Andrew-CARVD_124_Day_0/
-|   +---Andrew-CARVD_125_Day_0/
+|   +---<Annotator>-<site_id>_<patient_id>_<diuretic_time>/
+|   +---<Annotator>-<site_id>_<patient_id>_<diuretic_time>/
+|   +---<Annotator>-<site_id>_<patient_id>_<diuretic_time>/
 |   ...
-|   +---Andrew-CARVD_134_Day_0/
-|   +---Andrew-Lahey_001_T0_Transverse/
-|   +---Andrew-Lahey_029_T0_Transverse/
-|   +---Andrew-Lahey_032_T0_Transverse/
+|   +---<Annotator>-<site_id>_<patient_id>_<diuretic_time>/
+|   +---<Annotator>-<site_id>_<patient_id>_<diuretic_time>_<probe_orientation>/
+|   +---<Annotator>-<site_id>_<patient_id>_<diuretic_time>_<probe_orientation>/
+|   +---<Annotator>-<site_id>_<patient_id>_<diuretic_time>_<probe_orientation>/
 |   ...
-+---Arjun/
++---<Annotator>/
 |   ...
-+---Frances/
-|   ...
-+---Lao/
-|   ...
-+---Nick/
-|   ...
-+---Nicole/
-|   ...
-+---Peter/
-|   ...
-+---Sandra/
-|   ...
-+---Sandra-old/
-    ...
+...
 ```
 
 Overview of new data structure:
