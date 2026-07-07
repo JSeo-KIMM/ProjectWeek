@@ -39,6 +39,14 @@ key_investigators:
 
 ---
 
+## Github Repository
+
+- [imaging-data-commons-skill](https://github.com/ImagingDataCommons/imaging-data-commons-skill)
+
+## Funding Source(s)
+
+(to be added)
+
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->

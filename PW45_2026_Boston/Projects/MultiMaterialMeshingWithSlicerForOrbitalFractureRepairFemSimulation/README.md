@@ -27,6 +27,14 @@ key_investigators:
 
 ---
 
+## Github Repository
+
+- [slicer-skill](https://github.com/pieper/slicer-skill)
+
+## Funding Source(s)
+
+(to be added)
+
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->

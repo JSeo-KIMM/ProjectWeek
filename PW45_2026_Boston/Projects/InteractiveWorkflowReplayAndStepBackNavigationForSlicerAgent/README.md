@@ -31,6 +31,14 @@ key_investigators:
 
 ---
 
+## Github Repository
+
+- [Slicer_agent](https://github.com/puxuntu/Slicer_agent)
+
+## Funding Source(s)
+
+(to be added)
+
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->

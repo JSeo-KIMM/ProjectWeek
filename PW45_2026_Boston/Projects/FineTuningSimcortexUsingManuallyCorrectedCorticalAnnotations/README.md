@@ -23,6 +23,14 @@ key_investigators:
 
 ---
 
+## Github Repository
+
+- [SimCortex](https://github.com/Neuro-iX/SimCortex)
+
+## Funding Source(s)
+
+(to be added)
+
 # Project Description
 
 SimCortex v2 is a deep learning pipeline for cortical surface reconstruction from brain MRI. In this project, we will fine-tune the existing SimCortex v2 model using manually corrected segmentations and cortical surfaces.

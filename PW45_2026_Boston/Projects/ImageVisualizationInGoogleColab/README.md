@@ -23,6 +23,14 @@ key_investigators:
 
 ---
 
+## Github Repository
+
+- [trame-slicer](https://github.com/KitwareMedical/trame-slicer)
+
+## Funding Source(s)
+
+(to be added)
+
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->

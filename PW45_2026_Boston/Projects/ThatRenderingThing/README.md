@@ -15,6 +15,14 @@ key_investigators:
 
 ---
 
+## Github Repository
+
+- [SlicerCL](https://github.com/pieper/SlicerCL)
+
+## Funding Source(s)
+
+- [R01CA310962](https://taggs.hhs.gov/Detail/AwardDetail?arg_AwardNum=R01CA310962&arg_ProgOfficeCode=110)
+
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->

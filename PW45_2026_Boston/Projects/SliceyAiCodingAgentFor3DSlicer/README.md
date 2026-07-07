@@ -27,6 +27,14 @@ key_investigators:
 
 ---
 
+## Github Repository
+
+- [SlicerSandbox](https://github.com/PerkLab/SlicerSandbox)
+
+## Funding Source(s)
+
+(to be added)
+
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->

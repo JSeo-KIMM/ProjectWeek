@@ -24,6 +24,15 @@ key_investigators:
 
 ---
 
+## Github Repository
+
+- [ros2_kimm_robot](https://github.com/maribernardes/ros2_kimm_robot)
+
+## Funding Source(s)
+
+- [R01CA235134](https://reporter.nih.gov/project-details/10221645)
+- [R01EB020667](https://reporter.nih.gov/project-details/10608711)
+
 # Project Description
 
 This project aims to integrate a Stewart-platform parallel robot into the [SlicerROS2](https://github.com/rosmed/slicer_ros2_module) ecosystem for image-guided biopsy and ablation procedures. The robot, developed by collaborator Dr. Joonho Seo at KIMM, will be controlled using [ROS2](https://www.ros.org/) and and can align a needle or ablation probe based on patient intraoperative imaging. By integrating robot visualization and motion-planning preview into the 3D Slicer interface, we aim to allow the user to visualize the planned robot motion and probe trajectory before execution. This integration will also provide a foundation for future closed-loop robotic control using medical imaging feedback.

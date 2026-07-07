@@ -23,6 +23,14 @@ key_investigators:
 
 ---
 
+## Github Repository
+
+(to be added)
+
+## Funding Source(s)
+
+- [U24MH137171](https://reporter.nih.gov/project-details/11118972)
+
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->

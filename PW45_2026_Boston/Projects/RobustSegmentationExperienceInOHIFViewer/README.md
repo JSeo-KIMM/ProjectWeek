@@ -14,6 +14,14 @@ key_investigators:
 
 ---
 
+## Github Repository
+
+- [OHIF-AI](https://github.com/CCI-Bonn/OHIF-AI)
+
+## Funding Source(s)
+
+(to be added)
+
 # Project Description
 
 OHIF Viewer is a widely used web-based medical image viewer built on Cornerstone3D. Segmentation is central to many clinical and research workflows, yet reliability and robustness in OHIF/Cornerstone still lag behind user expectations — with recurring errors and edge cases in everyday use ([OHIF/Viewers#5453](https://github.com/OHIF/Viewers/issues/5453)).

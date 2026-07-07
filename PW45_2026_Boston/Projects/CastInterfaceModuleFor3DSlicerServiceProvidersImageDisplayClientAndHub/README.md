@@ -36,6 +36,14 @@ key_investigators:
 
 ---
 
+## Github Repository
+
+- [SlicerCastInterface](https://github.com/mbellehumeur/SlicerCastInterface)
+
+## Funding Source(s)
+
+(to be added)
+
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->

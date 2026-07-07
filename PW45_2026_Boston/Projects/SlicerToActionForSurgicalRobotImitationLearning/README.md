@@ -23,6 +23,14 @@ key_investigators:
 
 ---
 
+## Github Repository
+
+- [lerobot](https://github.com/huggingface/lerobot)
+
+## Funding Source(s)
+
+(to be added)
+
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->

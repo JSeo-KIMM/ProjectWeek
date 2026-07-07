@@ -35,6 +35,14 @@ key_investigators:
 
 ---
 
+## Github Repository
+
+(to be added)
+
+## Funding Source(s)
+
+- [R01DE024450](https://reporter.nih.gov/project-details/11458698)
+
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
