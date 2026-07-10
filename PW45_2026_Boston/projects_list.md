@@ -34,7 +34,7 @@ SlicerTMS is a 3DSlicer module for patient-specific transcranial stimulation. It
  </br>
 
 
-3. **[AI model development for lung ultrasound analysis](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/AiModelDevelopmentForLungUltrasoundAnalysis/)** (Alexandre Banks Gadbois @ BWH, +) (no github repo yet)
+3. **[AI model development for lung ultrasound analysis](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/AiModelDevelopmentForLungUltrasoundAnalysis/)** (Alexandre Banks Gadbois @ BWH, +) ([AI4Ultrasound/ai4ultrasound-keypoint-detect.git](https://github.com/AI4Ultrasound/ai4ultrasound-keypoint-detect.git))
 
 <a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/AiModelDevelopmentForLungUltrasoundAnalysis/"><img src="https://github.com/user-attachments/assets/22010591-075d-4910-9e31-184b91568813" style="max-width:480px;width:100%"></a>
 
