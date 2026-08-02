@@ -45,7 +45,7 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD]
 
 | Events | Registrants |
 |----|----|
-| [2026 June 22-36 Project Week 45](PW45_2026_Boston/README.md) - MIT, Cambridge, MA, USA. | 42 |
+| [2026 June 22-26 Project Week 45](PW45_2026_Boston/README.md) - MIT, Cambridge, MA, USA. | 42 |
 | [2026 January 26-30 Project Week 44](PW44_2026_GranCanaria/README.md) - Gran Canaria, Spain. | 48 |
 | [2025 June 23-27: Project Week 43](PW43_2025_Montreal/README.md) - Montreal, Canada. | 56 |
 | [2025 January 27-31: Project Week 42](PW42_2025_GranCanaria/README.md) - Gran Canaria, Spain. | 63 |
